@@ -4,12 +4,10 @@ this project is the engine part of our game: guardians
 [守护者TD](http://rc.qzone.qq.com/100682450/)
 
 ## Need SWC lib
-
 + [robotlegs 1](https://github.com/darscan/robotlegs-framework)
 + [as3-signals](https://github.com/robertpenner/as3-signals)
 
-## Based On
-
+## Including (modify based on)
 + [PBE2](https://github.com/PushButtonLabs/PushButtonEngine/tree/PBE2/src/com/pblabs)
 + [ztween](https://github.com/zeh/ztween)
 
